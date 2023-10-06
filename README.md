@@ -92,11 +92,9 @@ print(response.json())
 - **Version 1.1.0**
   - Released along with this README file.
 
-**Version 1.2.0**
-  - Fixed various bugs and improved overall stability.
 
 ## Illustration
 <h3>Here is an illustration of  the Project</h3>
 <!-- <img src="JPDB.png"></img> -->
 
-![home](/JPDB.png)
+![home](jpdb.png)
