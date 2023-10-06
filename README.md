@@ -65,7 +65,7 @@ This project is currently in development, implementing the described behavior fo
 
 Here are some examples of how to use JsonPowerDB in your projects:
 
-```python
+python
 # Python example
 import json
 import requests
@@ -92,8 +92,7 @@ print(response.json())
 - **Version 1.1.0**
   - Released along with this README file.
 
-**Version 1.2.0**
-  - Fixed various bugs and improved overall stability.
+
 
 #Illustration
 <h3>Here is an illustration of  the Project</h3>
