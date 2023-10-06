@@ -97,4 +97,4 @@ print(response.json())
 
 #Illustration
 <h3>Here is an illustration of  the Project</h3>
-<img src="./JPDB.png"></img>
+<img src="JPDB.png"></img>
